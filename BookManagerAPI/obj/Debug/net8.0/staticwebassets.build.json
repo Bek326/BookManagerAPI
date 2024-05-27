@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "pGMA9wzZowGPvGXEmPe38wvFWD3CNU75qmFRvxXtqKQ=",
+  "Source": "BookManagerAPI",
+  "BasePath": "_content/BookManagerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BookManagerAPI\\wwwroot",
+      "Source": "BookManagerAPI",
+      "ContentRoot": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\",
+      "BasePath": "_content/BookManagerAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\app.js",
+      "SourceId": "BookManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\",
+      "BasePath": "_content/BookManagerAPI",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\index.html",
+      "SourceId": "BookManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\",
+      "BasePath": "_content/BookManagerAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\styles.css",
+      "SourceId": "BookManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\",
+      "BasePath": "_content/BookManagerAPI",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

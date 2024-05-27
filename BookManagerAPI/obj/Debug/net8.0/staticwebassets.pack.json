@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookManagerAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookManagerAPI.props",
+      "PackagePath": "build\\BookManagerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookManagerAPI.props",
+      "PackagePath": "buildMultiTargeting\\BookManagerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookManagerAPI.props",
+      "PackagePath": "buildTransitive\\BookManagerAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
