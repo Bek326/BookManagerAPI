@@ -1,4 +1,4 @@
-﻿const apiBaseUrl = 'https://localhost:7140/api/books'; 
+﻿const apiBaseUrl = 'https://bookmanager-eight.vercel.app'; 
 
 document.addEventListener('DOMContentLoaded', () => {
     loadBooks();
