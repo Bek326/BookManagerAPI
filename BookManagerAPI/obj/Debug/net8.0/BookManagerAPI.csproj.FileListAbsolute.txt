@@ -31,7 +31,6 @@ C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debu
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BookManagerAPI.props
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\scopedcss\bundle\BookManagerAPI.styles.css
-C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.csproj.CopyComplete
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.dll
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\refint\BookManagerAPI.dll
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.pdb
@@ -104,3 +103,5 @@ C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\bin\Debu
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\BookManagerAPI.sourcelink.json
+C:\Users\Бексултан\RiderProjects\BookManagerAPI\BookManagerAPI\obj\Debug\net8.0\BookMana.12AFCC69.Up2Date

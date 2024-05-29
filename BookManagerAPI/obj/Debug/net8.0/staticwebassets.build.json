@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pGMA9wzZowGPvGXEmPe38wvFWD3CNU75qmFRvxXtqKQ=",
+  "Hash": "q5uR+YeNA4G19Q8ChS9PU09qbYqAFGj+G3thQh+w28k=",
   "Source": "BookManagerAPI",
   "BasePath": "_content/BookManagerAPI",
   "Mode": "Default",
@@ -16,25 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\app.js",
-      "SourceId": "BookManagerAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\",
-      "BasePath": "_content/BookManagerAPI",
-      "RelativePath": "app.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\app.js"
-    },
     {
       "Identity": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\index.html",
       "SourceId": "BookManagerAPI",
@@ -53,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\scripts.js",
+      "SourceId": "BookManagerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\",
+      "BasePath": "_content/BookManagerAPI",
+      "RelativePath": "scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts.js"
     },
     {
       "Identity": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\styles.css",

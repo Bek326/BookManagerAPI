@@ -1,63 +1,34 @@
 ﻿body {
     font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
 }
 
 h1, h2 {
     text-align: center;
 }
 
-#book-list, #book-form {
+.card {
     margin: 20px auto;
     width: 80%;
     max-width: 600px;
 }
 
-#book-list table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-#book-list th, #book-list td {
-    border: 1px solid #ddd;
-    padding: 8px;
-}
-
-#book-list th {
-    background-color: #f2f2f2;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-}
-
-form label {
-    margin: 5px 0 2px;
-}
-
-form input {
-    margin: 5px 0 15px;
-    padding: 8px;
-    border: 1px solid #ddd;
-}
-
-form button {
-    padding: 10px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
+.table th {
     cursor: pointer;
-    border-radius: 5px; 
-    transition: background-color 0.3s ease; 
 }
 
-form button:hover {
-    background-color: #45a049;
+.form-control, .btn {
+    margin-top: 10px;
 }
 
-#error-message {
-    text-align: center;
-    color: red;
-    margin-bottom: 10px;
+.card-title {
+    margin-bottom: 20px;
 }
 
+.table td, .table th {
+    vertical-align: middle;
+}
+
+.table button {
+    margin: 0 5px;
+}

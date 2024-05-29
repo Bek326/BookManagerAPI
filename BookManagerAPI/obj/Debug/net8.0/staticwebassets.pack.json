@@ -1,12 +1,12 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\app.js",
-      "PackagePath": "staticwebassets\\app.js"
-    },
-    {
       "Id": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\scripts.js",
+      "PackagePath": "staticwebassets\\scripts.js"
     },
     {
       "Id": "C:\\Users\\Бексултан\\RiderProjects\\BookManagerAPI\\BookManagerAPI\\wwwroot\\styles.css",
