@@ -24,7 +24,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://bookmanager-eight.vercel.app;http://localhost:5065",
+      "applicationUrl": "https://bookmanager-eight.vercel.app/api/books;http://localhost:5065",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
